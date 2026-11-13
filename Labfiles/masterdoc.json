@@ -5,7 +5,7 @@
     "BaseURL": "https://github.com/CloudLabsAI-Azure/SAIT-Fabric-Exploratory-Sandbox/tree/main",
     "Files": [
       {
-        "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabsAI-Azure/SAIT-Fabric-Exploratory-Sandbox/refs/heads/main/Labfiles/gettingstarted.md",
+        "RawFilePath": "https://raw.githubusercontent.com/CloudLabsAI-Azure/SAIT-Fabric-Exploratory-Sandbox/refs/heads/main/Labfiles/gettingstarted.md",
         "Order": 1
       }
     ]
